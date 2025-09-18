@@ -47,7 +47,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *April.2024 - November.2025 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *April. 2024 - November. 2025 (now)*
+  [University of Auckland](https://www.auckland.ac.nz/en/arts.html?gclsrc=aw.ds&gad_source=1&gad_campaignid=21327207260&gbraid=0AAAAAC3stJBiMUAmGMcyYv9p4-h5Vo8zW&gclid=Cj0KCQjwuKnGBhD5ARIsAD19Rsbn4916H7kJAJ3RgCYzv7HCr7gQiGylYGgpJU2YdrVJjBpLpHM-jPgaAt7BEALw_wcB/)     .  
+  Masters of Management, Accounting.
 - *September.2016 - June.2020*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
@@ -55,4 +57,5 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *July.2025 - Present*, [Lorem](https://github.com/), New Zealand.
+- *July.2025 - Present*, Assistant Accountant,  [UG Consultants Ltd.](https://github.com/), Auckland, New Zealand.
+  - Prepared the filed GST Returns
